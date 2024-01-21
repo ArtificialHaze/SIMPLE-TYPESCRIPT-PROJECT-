@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "Item-01",
+      "name": "Normal Package",
+      "price": 19.99
+    },
+    {
+      "id": "Item-02",
+      "name": "Premium Package",
+      "price": 49.99
+    },
+    {
+      "id": "Item-03",
+      "name": "Deluxe Package",
+      "price": 99.99
+    }
+  ]
+}
